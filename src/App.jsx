@@ -26,7 +26,7 @@ function App() {
   },  []);
 
   const fetchAppiConfig = () =>{
-    fetchDataFromApi('/movie/popular')
+    fetchDataFromApi('/configuration')
     .then((res) => {
       console.log(res);
 
