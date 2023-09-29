@@ -1,14 +1,9 @@
-
-// import React, { useState } from "react";
 import { useParams } from "react-router-dom";
 import { useSelector } from "react-redux";
 import dayjs from "dayjs";
 
 import './detailsBanner.scss'
-
 import useFetch from "../../../hooks/useFetch";
-
-
 import PosterFallback from "../../../assets/no-poster.png";
 import ContentWrapper from "../../../components/ContentWrapper/ContentWrapper";
 import Genres from "../../../components/Genres/Genres";
