@@ -76,7 +76,7 @@ function Header(){
                     <img src={logo} alt="" />
                 </div>
                 <ul className="menuItems">
-                    <li
+<li
                         className="menuItem"
                         onClick={() => navigationHandler("movie")}
                     >
@@ -95,7 +95,7 @@ function Header(){
 
                 <div className="mobileMenuItems">
                     <HiOutlineSearch onClick={openSearch} />
-                    {mobileMenu ? (
+                   {mobileMenu ? (
                         <VscChromeClose onClick={() => setMobileMenu(false)} />
                     ) : (
                         <SlMenu onClick={openMobileMenu} />
