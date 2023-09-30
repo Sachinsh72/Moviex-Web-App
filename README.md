@@ -1,11 +1,9 @@
 # Movix
-
-<<<<<<< HEAD
 Movix is the best movies database web application. Where you can find trending, polpuar, top rated and many more list about the movies. Here is the proper detail about the movie creation, overview, rating, release date, cast list, and many more.
-=======
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
 ![movix](https://github.com/Sachinsh72/Movix-Web-App/assets/91846348/69908891-1991-477b-aff2-1d0639faa01e)
->>>>>>> d5ea9ba46a1d821d04aaa380b33b3f0569fb4e24
+
+### Live link - https://movix-webapp.netlify.app
 
 ## Features
 - List of latest movie
